@@ -1,6 +1,6 @@
 Hello there! I'm Spencer Keeton, a relatively-recent graduate (May 2021) from Grand Valley State University.
 
-*I am currently on the job hunt, so if you happen to be looking for an entry-level employee for any CS jobs (preferrably Software Development, but I'm open to a lot in the CS field), feel free to reach out!*
+*I am currently on the job hunt, so if you happen to be looking for an entry-level employee for any CS jobs (preferrably Software or Web Development, but I'm open to a lot in the CS field), feel free to reach out!*
 
 
 This repository contains a lot of random work done worked on by me (both my own & collaborations with others).
